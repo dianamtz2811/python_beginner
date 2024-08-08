@@ -1,0 +1,6 @@
+Fecha: 2024-08-04 21:58:53 - Descripción: cositas - Cantidad: 11.00
+Fecha: 2024-08-04 22:07:23 - Descripción: cine - Cantidad: 123.00
+Fecha: 2024-08-04 22:08:31 - Descripción: ropa - Cantidad: 323.00
+Fecha: 2024-08-04 22:11:35 - Descripción: cine - Cantidad: 200.00
+Fecha: 2024-08-04 22:11:41 - Descripción: palomitas - Cantidad: 150.00
+Fecha: 2024-08-04 22:11:46 - Descripción: comida - Cantidad: 300.00
